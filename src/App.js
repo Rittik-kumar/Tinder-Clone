@@ -6,8 +6,6 @@ function App() {
   return (
     // BEM class naming convention
     <div className="app">
-      <h1>Lets build MERN Tinder Clone !</h1>
-      
       <Header />
       {/*tinderCards*/}
       {/*swiperButton*/}
